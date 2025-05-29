@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@example.com",
+      "age": 28,
+      "address": {
+        "street": "123 Main St",
+        "city": "New York",
+        "country": "USA"
+      },
+      "hobbies": ["reading", "gaming", "coding"]
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "age": 32,
+      "address": {
+        "street": "456 Park Ave",
+        "city": "London",
+        "country": "UK"
+      },
+      "hobbies": ["painting", "traveling", "photography"]
+    }
+  ]
+} 
